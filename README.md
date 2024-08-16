@@ -1,6 +1,6 @@
-# 3D_Robot_landing_page 🤖
+# 3D_Interactive_Robot_landing_page 🤖
 
-**Modern and responsive Landing Page Redesigned for Figure Humanoid Robots Company**
+**Modern, Interactive 3D and responsive Landing Page Redesign of Figure Humanoid Robots Company**
 
 **⚠️ View on Desktop for Better experience.**
 
