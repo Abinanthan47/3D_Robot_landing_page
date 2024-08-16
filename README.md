@@ -14,3 +14,11 @@
 
 
 ![image](https://github.com/user-attachments/assets/840a5b4e-c905-480b-991c-57d78ecdcd3d)
+
+## Tech Stacks
+
+### ⚛ HTML
+### ©️ CSS
+### ▶ JAVASCRIPT
+### 🟣 SPLINE
+
